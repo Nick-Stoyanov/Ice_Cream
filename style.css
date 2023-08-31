@@ -1,0 +1,58 @@
+@font-face
+{
+    font-family: Wonderland;
+    src: url("Wonderland.otf");
+}
+body {
+    background-image: url("Ice_Cream_Background.jpg");
+    background-size: cover;
+    font-family: Wonderland, cursive, Arial;
+
+
+}
+#One, #Two, #Three  {
+    background-color: white;
+    opacity: 85%;
+    padding: 8px;
+    width: 30%;
+    height: 75%;
+}
+h1 {
+    display: flex;
+    justify-content: space-between;
+}
+#menus {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+ #logo
+ {
+     max-height: 20vh;
+ }
+ header {
+     display: flex;
+     justify-content: center;
+     margin: 8px;
+
+ }
+
+ footer {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     background-color: white;
+     opacity: 85%;
+ }
+
+ h2{
+     font-size: 10vh;
+     padding: 0;
+     margin: 0;
+ }
+
+footer p {
+    font-size: 50px;
+    margin: 0;
+}
