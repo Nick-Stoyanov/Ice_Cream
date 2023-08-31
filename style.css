@@ -7,15 +7,16 @@ body {
     background-image: url("Ice_Cream_Background.jpg");
     background-size: cover;
     font-family: Wonderland, cursive, Arial;
+    font-size: large;
 
 
 }
 #One, #Two, #Three  {
     background-color: white;
     opacity: 85%;
-    padding: 8px;
-    width: 30%;
-    height: 75%;
+    padding: 8px 8px 0px;
+    width: 32%;
+    height: 60vh;
 }
 h1 {
     display: flex;
@@ -29,12 +30,12 @@ h1 {
 }
  #logo
  {
-     max-height: 20vh;
+     max-height: 15vh;
  }
  header {
      display: flex;
      justify-content: center;
-     margin: 8px;
+
 
  }
 
@@ -44,6 +45,8 @@ h1 {
      align-items: center;
      background-color: white;
      opacity: 85%;
+
+
  }
 
  h2{
@@ -55,4 +58,5 @@ h1 {
 footer p {
     font-size: 50px;
     margin: 0;
+
 }
