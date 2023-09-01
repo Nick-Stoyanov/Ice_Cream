@@ -1,12 +1,12 @@
 @font-face
 {
-    font-family: Wonderland;
-    src: url("Wonderland.otf");
+    font-family: Super Corn;
+    src: url("Super Corn.ttf");
 }
 body {
     background-image: url("Ice_Cream_Background.jpg");
     background-size: cover;
-    font-family: Wonderland, cursive, Arial;
+    font-family: Super Corn, cursive, Arial;
     font-size: large;
 
 
