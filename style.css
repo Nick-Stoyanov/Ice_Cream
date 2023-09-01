@@ -12,22 +12,27 @@ body {
 
 }
 #One, #Two, #Three  {
-    background-color: white;
-    opacity: 80%;
+
     padding: 8px 8px 0px;
     width: 25%;
     height: 60vh;
-    font-size: x-large;
+    font-size: xx-large;
 }
 h1 {
     display: flex;
     justify-content: space-around;
+    margin: 0;
+
+}
+hr {
     margin: 8px;
 }
 #menus {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    background-color: white;
+    opacity: 80%;
 
 }
  #logo
