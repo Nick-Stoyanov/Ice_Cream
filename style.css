@@ -7,19 +7,20 @@ body {
     background-image: url("Ice_Cream_Background.jpg");
     background-size: cover;
     font-family: Super Corn, cursive, Arial;
-    font-size: x-large;
+    font-size: large;
 
 
 }
 #One, #Two, #Three  {
-
+    background-color: white;
+    opacity: 80%;
     padding: 8px 8px 0px;
     width: 25%;
     height: 60vh;
 }
 h1 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 #menus {
     display: flex;
