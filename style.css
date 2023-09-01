@@ -13,8 +13,8 @@ body {
 }
 #One, #Two, #Three  {
 
-    padding: 8px 8px 0px;
-    width: 25%;
+    padding: 24px;
+    width: 22%;
     height: 60vh;
     font-size: xx-large;
 }
