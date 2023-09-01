@@ -7,7 +7,7 @@ body {
     background-image: url("Ice_Cream_Background.jpg");
     background-size: cover;
     font-family: Super Corn, cursive, Arial;
-    font-size: large;
+
 
 
 }
@@ -17,6 +17,7 @@ body {
     padding: 8px 8px 0px;
     width: 25%;
     height: 60vh;
+    font-size: x-large;
 }
 h1 {
     display: flex;
